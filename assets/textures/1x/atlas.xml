@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:63300457739381ec060b31beb1d2b286:22580792780124a6442cc85f01a8530c:6a6e6fa3f501222eca20c86df75dc199$ -->
+<TextureAtlas imagePath="atlas.png" width="488" height="280">
+    <SubTexture name="bg-pattern" x="467" y="174" width="15" height="15"/>
+    <SubTexture name="bird-1" x="346" y="213" width="58" height="53" frameX="-5" frameY="0" frameWidth="64" frameHeight="53"/>
+    <SubTexture name="bird-2" x="346" y="174" width="63" height="37" frameX="0" frameY="-14" frameWidth="64" frameHeight="53"/>
+    <SubTexture name="bird-3" x="406" y="232" width="61" height="35" frameX="-3" frameY="-13" frameWidth="64" frameHeight="53"/>
+    <SubTexture name="bird-4" x="346" y="174" width="63" height="37" frameX="0" frameY="-14" frameWidth="64" frameHeight="53"/>
+    <SubTexture name="dusk-sky" x="1" y="1" width="256" height="128"/>
+    <SubTexture name="left" x="69" y="247" width="28" height="27"/>
+    <SubTexture name="progress-indicator" x="411" y="174" width="54" height="56" frameX="-2" frameY="0" frameWidth="56" frameHeight="56"/>
+    <SubTexture name="right" x="99" y="247" width="27" height="27"/>
+    <SubTexture name="rocket-bird" x="1" y="131" width="209" height="114" frameX="-1" frameY="0" frameWidth="210" frameHeight="116"/>
+    <SubTexture name="scale9" x="246" y="174" width="98" height="98" frameX="-1" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="tile_00" x="212" y="131" width="32" height="32"/>
+    <SubTexture name="tile_01" x="212" y="165" width="32" height="32"/>
+    <SubTexture name="tile_02" x="212" y="199" width="32" height="32"/>
+    <SubTexture name="tile_03" x="212" y="233" width="32" height="32"/>
+    <SubTexture name="tile_04" x="1" y="247" width="32" height="32"/>
+    <SubTexture name="tile_05" x="35" y="247" width="32" height="32"/>
+    <SubTexture name="touch-sheet" x="259" y="1" width="228" height="171"/>
+</TextureAtlas>

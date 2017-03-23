@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:63300457739381ec060b31beb1d2b286:22580792780124a6442cc85f01a8530c:6a6e6fa3f501222eca20c86df75dc199$ -->
+<TextureAtlas imagePath="atlas.png" width="956" height="1241">
+    <SubTexture name="bg-pattern" x="627" y="1191" width="45" height="45"/>
+    <SubTexture name="bird-1" x="687" y="171" width="170" height="154" frameX="-16" frameY="-4" frameWidth="191" frameHeight="160"/>
+    <SubTexture name="bird-2" x="687" y="327" width="185" height="104" frameX="-2" frameY="-46" frameWidth="191" frameHeight="160"/>
+    <SubTexture name="bird-3" x="773" y="433" width="176" height="99" frameX="-11" frameY="-42" frameWidth="191" frameHeight="160"/>
+    <SubTexture name="bird-4" x="687" y="327" width="185" height="104" frameX="-2" frameY="-46" frameWidth="191" frameHeight="160"/>
+    <SubTexture name="dusk-sky" x="1" y="516" width="768" height="384"/>
+    <SubTexture name="left" x="687" y="433" width="84" height="81"/>
+    <SubTexture name="progress-indicator" x="687" y="1" width="161" height="168" frameX="-8" frameY="-1" frameWidth="169" frameHeight="169"/>
+    <SubTexture name="right" x="869" y="534" width="82" height="81"/>
+    <SubTexture name="rocket-bird" x="1" y="902" width="624" height="338" frameX="-6" frameY="-3" frameWidth="630" frameHeight="349"/>
+    <SubTexture name="scale9" x="627" y="902" width="287" height="287" frameX="-7" frameY="-7" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="tile_00" x="850" y="1" width="96" height="96"/>
+    <SubTexture name="tile_01" x="859" y="99" width="96" height="96"/>
+    <SubTexture name="tile_02" x="859" y="197" width="96" height="96"/>
+    <SubTexture name="tile_03" x="771" y="534" width="96" height="96"/>
+    <SubTexture name="tile_04" x="771" y="632" width="96" height="96"/>
+    <SubTexture name="tile_05" x="771" y="730" width="96" height="96"/>
+    <SubTexture name="touch-sheet" x="1" y="1" width="684" height="513"/>
+</TextureAtlas>
