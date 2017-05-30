@@ -16,21 +16,21 @@ package utils
     public class Helpers
     {
         public static function addStageEventListener(
-            object:DisplayObject, type:String, listener:Function):void
+            target:DisplayObject, type:String, listener:Function):void
         {
-            object.addEventListener(Event.ADDED_TO_STAGE, onAddedToStage);
-            object.addEventListener(Event.REMOVED_FROM_STAGE, onRemovedFromStage);
+            target.addEventListener(Event.ADDED_TO_STAGE, onAddedToStage);
+            target.addEventListener(Event.REMOVED_FROM_STAGE, onRemovedFromStage);
 
-            if (object.stage) onAddedToStage();
+            if (target.stage) onAddedToStage();
 
             function onAddedToStage():void
             {
-                object.stage.addEventListener(type, listener);
+                target.stage.addEventListener(type, listener);
             }
 
             function onRemovedFromStage():void
             {
-                object.stage.removeEventListener(type, listener);
+                target.stage.removeEventListener(type, listener);
             }
         }
     }
