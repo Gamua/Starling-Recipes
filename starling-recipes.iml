@@ -26,7 +26,7 @@
           <files-to-package>
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets" path-in-package="assets" />
           </files-to-package>
-          <AirSigningOptions keystore-path="$MODULE_DIR$/../../library/ios/daniel_developer_certificate.p12" provisioning-profile-path="$MODULE_DIR$/../../library/ios/iOS_Team_Provisioning_Profile.mobileprovision" />
+          <AirSigningOptions keystore-path="$MODULE_DIR$/../../library/ios/daniel_dev_certificate.p12" provisioning-profile-path="$MODULE_DIR$/../../library/ios/ios_dev_profile.mobileprovision" />
         </packaging-ios>
       </configuration>
       <configuration name="starling-recipes-web" pure-as="true" main-class="StartupWeb" output-file="starling-recipes-web.swf" output-folder="$MODULE_DIR$/../../temp/out/starling-recipes">
